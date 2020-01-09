@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\СПП\Lab5\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\СПП\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\СПП\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+\\Mac\Home\Desktop\СПП\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+\\Mac\Home\Desktop\СПП\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+\\Mac\Home\Desktop\СПП\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+\\Mac\Home\Desktop\СПП\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb

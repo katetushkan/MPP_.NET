@@ -1,0 +1,13 @@
+C:\Users\evdan\source\repos\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\evdan\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\evdan\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\evdan\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\evdan\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\evdan\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
+\\Mac\Home\Desktop\СПП\Lab1\Lab1\bin\Debug\Lab1.exe.config
+\\Mac\Home\Desktop\СПП\Lab1\Lab1\bin\Debug\Lab1.exe
+\\Mac\Home\Desktop\СПП\Lab1\Lab1\bin\Debug\Lab1.pdb
+\\Mac\Home\Desktop\СПП\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\СПП\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\СПП\Lab1\Lab1\obj\Debug\Lab1.exe
+\\Mac\Home\Desktop\СПП\Lab1\Lab1\obj\Debug\Lab1.pdb

@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\СПП\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+\\Mac\Home\Desktop\СПП\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+\\Mac\Home\Desktop\СПП\Lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+\\Mac\Home\Desktop\СПП\Lab6\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\СПП\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\СПП\Lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+\\Mac\Home\Desktop\СПП\Lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
